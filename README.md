@@ -2,10 +2,9 @@
 
 ![alt text](http://miyolinux.weebly.com/uploads/1/3/7/0/13707080/screenshot-from-2018-03-06-18-02-18_orig.png)
 
-The Live Keyboard Layout Changer allows a user to change keyboard layouts during a live session.
+Requires: yad and flag icons (provided as a .zip file
 
-Requires: yad
-          flag icons
+The Live Keyboard Layout Changer allows a user to temporarily change the keyboard layout on the fly in a live session. The change will last until a user changes it back again with the application, or until a user logs out/in or reboots. It was created to aid non-US users while running MiyoLinux live before installation; however, it can also be useful after installation for anyone desiring more than one keyboard layout.
 
 Unfortunately, I was shortsighted when I created this application, because I pointed the code toward a MiyoLinux specific folder containing the flag icons instead of a generic folder that could easily be used on any system. Therefore, a user has two options...
 
