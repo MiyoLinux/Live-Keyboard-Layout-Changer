@@ -1,4 +1,7 @@
 # Live-Keyboard-Layout-Changer
+
+![alt text](http://miyolinux.weebly.com/uploads/1/3/7/0/13707080/screenshot-from-2018-03-06-18-02-18_orig.png)
+
 The Live Keyboard Layout Changer allows a user to change keyboard layouts during a live session.
 
 Requires: yad
