@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Keyboard Live Layout
+Comment=Change the keyboard layout in the live session
+Exec=/bin/miyo-keyboard
+Icon=input-keyboard
+Categories=System;
